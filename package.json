@@ -3,26 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mora5925/note-taker.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mora5925/note-taker/issues"
-  },
-  "homepage": "https://github.com/mora5925/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "shortid": "^2.2.16"
+    "express": "^4.16.4"
   }
 }
